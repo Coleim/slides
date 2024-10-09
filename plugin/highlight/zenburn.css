@@ -78,3 +78,11 @@ based on dark.css by Ivan Sagalaev
 .hljs-strong {
   font-weight: bold;
 }
+
+.language-shell {
+  color: rgb(233, 28, 233);
+}
+
+.reveal pre code {
+  padding: 15px;
+}

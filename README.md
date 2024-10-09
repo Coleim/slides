@@ -9,3 +9,4 @@ Powered by <a href="https://revealjs.com">
 
 
 - 👀 [demo](decks/demo.html)
+- 👀 [demo](decks/console.log/index.html)
